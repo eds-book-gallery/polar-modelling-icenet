@@ -32,6 +32,9 @@
     </a>
 </p>
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/13321552/222931826-514929ca-4367-4f05-b130-11f7aa758efc.png?raw=True" alt="thumbnail" width="500"/>
+</p>
 
 # How to run
 
