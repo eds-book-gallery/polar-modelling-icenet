@@ -20,8 +20,8 @@
     <a href="https://us-central1-b.gcp.pangeo.io/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FEnvironmental-DS-Book%2Fpolar-modelling-icenet.git&urlpath=tree%2Fpolar-modelling-icenet.git%2Fpolar-modelling-icenet.ipynb&branch=main">
         <img alt="JupyterHub" src="https://img.shields.io/static/v1.svg?logo=Jupyter&label=PangeoJupyterHub&message=2i2c&color=orange">
     </a>
-    <a href="https://github.com/Environmental-DS-Book/polar-modelling-icenet/actions/workflows/publish.yml/badge.svg">
-        <img alt="Continuous integration badge" src="https://github.com/Environmental-DS-Book/polar-modelling-icenet/actions/workflows/publish.yml/badge.svg">
+    <a href="https://github.com/Environmental-DS-Book/polar-modelling-icenet/actions/workflows/render.yaml">
+        <img alt="Render" src="https://github.com/Environmental-DS-Book/polar-modelling-icenet/actions/workflows/render.yaml/badge.svg">
     </a>
     <br/>
 </p>
@@ -69,3 +69,4 @@ You may also download the notebook from GitHub to run it locally:
 
 # Credits
 The **How to run** section was adapted from the [Project Pythia Cookbook](https://cookbooks.projectpythia.org/) project.
+The workflow actions were adapted from [2i2c’s hub-user-image-template](https://github.com/2i2c-org/hub-user-image-template) released under BSD-3-Clause license.
