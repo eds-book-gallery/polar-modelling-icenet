@@ -1,0 +1,5 @@
+{
+    "notebook_name": "polar-modelling-icenet.ipynb",
+    "kernel": "python",
+    "quay_image": "edsbook/polar-modelling-icenet"
+}
