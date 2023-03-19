@@ -1,5 +1,5 @@
 {
-    "notebook_name": "polar-modelling-icenet.ipynb",
+    "notebook_name": "notebook.ipynb",
     "kernel": "python",
-    "quay_image": "edsbook/polar-modelling-icenet"
+    "quay_image": "edsbook/ac327c3a-5264-40a2-8c6e-1e8d7c4b37ef"
 }

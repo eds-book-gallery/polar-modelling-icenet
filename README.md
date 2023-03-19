@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-<img src="https://github.com/alan-turing-institute/environmental-ds-book/blob/master/book/figures/logo/logo.png?raw=True" alt="thumbnail" width="200"/>
+<img src="https://github.com/alan-turing-institute/eds-book-gallery/blob/master/book/figures/logo/logo.png?raw=True" alt="thumbnail" width="200"/>
 </p>
 
 <div align="center">
@@ -11,17 +11,17 @@
 </div>
 
 <p align="center">
-    <a href="https://github.com/Environmental-DS-Book/polar-modelling-icenet/blob/main/LICENSE">
+    <a href="https://github.com/eds-book-gallery/ac327c3a-5264-40a2-8c6e-1e8d7c4b37ef/blob/main/LICENSE">
         <img alt="License" src="https://img.shields.io/badge/License-MIT-yellow.svg">
     </a>
-    <a href="https://notebooks.gesis.org/binder/v2/gh/Environmental-DS-Book/polar-modelling-icenet/main?labpath=polar-modelling-icenet.ipynb">
+    <a href="https://notebooks.gesis.org/binder/v2/gh/eds-book-gallery/ac327c3a-5264-40a2-8c6e-1e8d7c4b37ef/main?labpath=ac327c3a-5264-40a2-8c6e-1e8d7c4b37ef.ipynb">
         <img alt="Binder" src="https://mybinder.org/badge_logo.svg">
     </a>
-    <a href="https://us-central1-b.gcp.pangeo.io/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FEnvironmental-DS-Book%2Fpolar-modelling-icenet.git&urlpath=tree%2Fpolar-modelling-icenet.git%2Fpolar-modelling-icenet.ipynb&branch=main">
+    <a href="https://us-central1-b.gcp.pangeo.io/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Feds-book-gallery%2Fac327c3a-5264-40a2-8c6e-1e8d7c4b37ef.git&urlpath=tree%2Fac327c3a-5264-40a2-8c6e-1e8d7c4b37ef.git%2Fac327c3a-5264-40a2-8c6e-1e8d7c4b37ef.ipynb&branch=main">
         <img alt="JupyterHub" src="https://img.shields.io/static/v1.svg?logo=Jupyter&label=PangeoJupyterHub&message=2i2c&color=orange">
     </a>
-    <a href="https://github.com/Environmental-DS-Book/polar-modelling-icenet/actions/workflows/render.yaml">
-        <img alt="Render" src="https://github.com/Environmental-DS-Book/polar-modelling-icenet/actions/workflows/render.yaml/badge.svg">
+    <a href="https://github.com/eds-book-gallery/ac327c3a-5264-40a2-8c6e-1e8d7c4b37ef/actions/workflows/render.yaml">
+        <img alt="Render" src="https://github.com/eds-book-gallery/ac327c3a-5264-40a2-8c6e-1e8d7c4b37ef/actions/workflows/render.yaml/badge.svg">
     </a>
     <br/>
 </p>
@@ -51,18 +51,18 @@ You may also download the notebook from GitHub to run it locally:
 
 3. Clone the repository
     ```bash
-    git clone https://github.com/Environmental-DS-Book/polar-modelling-icenet.git
+    git clone https://github.com/eds-book-gallery/ac327c3a-5264-40a2-8c6e-1e8d7c4b37ef.git
     ```
 
 4. Move into the cloned repository
     ```bash
-    cd polar-modelling-icenet
+    cd ac327c3a-5264-40a2-8c6e-1e8d7c4b37ef
     ```
 
 5. Create and activate your environment from the `.binder/environment.yml` file
     ```bash
     conda env create -f .binder/environment.yml
-    conda activate polar-modelling-icenet
+    conda activate ac327c3a-5264-40a2-8c6e-1e8d7c4b37ef
     ```  
 
 6. Launch the jupyter interface of your preference, notebook, `jupyter notebook` or lab `jupyter lab`
