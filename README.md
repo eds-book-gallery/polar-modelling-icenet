@@ -14,10 +14,10 @@
     <a href="https://github.com/eds-book-gallery/ac327c3a-5264-40a2-8c6e-1e8d7c4b37ef/blob/main/LICENSE">
         <img alt="License" src="https://img.shields.io/badge/License-MIT-yellow.svg">
     </a>
-    <a href="https://notebooks.gesis.org/binder/v2/gh/eds-book-gallery/ac327c3a-5264-40a2-8c6e-1e8d7c4b37ef/main?labpath=ac327c3a-5264-40a2-8c6e-1e8d7c4b37ef.ipynb">
+    <a href="https://notebooks.gesis.org/binder/v2/gh/eds-book-gallery/ac327c3a-5264-40a2-8c6e-1e8d7c4b37ef/main?labpath=notebook.ipynb">
         <img alt="Binder" src="https://mybinder.org/badge_logo.svg">
     </a>
-    <a href="https://us-central1-b.gcp.pangeo.io/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Feds-book-gallery%2Fac327c3a-5264-40a2-8c6e-1e8d7c4b37ef.git&urlpath=tree%2Fac327c3a-5264-40a2-8c6e-1e8d7c4b37ef.git%2Fac327c3a-5264-40a2-8c6e-1e8d7c4b37ef.ipynb&branch=main">
+    <a href="https://us-central1-b.gcp.pangeo.io/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Feds-book-gallery%2Fac327c3a-5264-40a2-8c6e-1e8d7c4b37ef.git&urlpath=tree%2Fac327c3a-5264-40a2-8c6e-1e8d7c4b37ef.git%2Fnotebook.ipynb&branch=main">
         <img alt="JupyterHub" src="https://img.shields.io/static/v1.svg?logo=Jupyter&label=PangeoJupyterHub&message=2i2c&color=orange">
     </a>
     <a href="https://github.com/eds-book-gallery/ac327c3a-5264-40a2-8c6e-1e8d7c4b37ef/actions/workflows/render.yaml">
