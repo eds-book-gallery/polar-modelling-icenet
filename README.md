@@ -23,6 +23,9 @@
     <a href="https://github.com/eds-book-gallery/ac327c3a-5264-40a2-8c6e-1e8d7c4b37ef/actions/workflows/render.yaml">
         <img alt="render" src="https://github.com/eds-book-gallery/ac327c3a-5264-40a2-8c6e-1e8d7c4b37ef/actions/workflows/render.yaml/badge.svg">
     </a>
+    <a href="https://github.com/alan-turing-institute/environmental-ds-book/pull/6">
+        <img alt="review" src="https://img.shields.io/badge/view-review-orange">
+    </a>
     <br/>
 </p>
 
