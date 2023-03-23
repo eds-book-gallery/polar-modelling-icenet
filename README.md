@@ -12,26 +12,26 @@
 
 <p align="center">
     <a href="https://github.com/eds-book-gallery/ac327c3a-5264-40a2-8c6e-1e8d7c4b37ef/blob/main/LICENSE">
-        <img alt="License" src="https://img.shields.io/badge/License-MIT-yellow.svg">
+        <img alt="license" src="https://img.shields.io/badge/license-MIT-yellow.svg">
     </a>
     <a href="https://notebooks.gesis.org/binder/v2/gh/eds-book-gallery/ac327c3a-5264-40a2-8c6e-1e8d7c4b37ef/main?labpath=notebook.ipynb">
-        <img alt="Binder" src="https://mybinder.org/badge_logo.svg">
+        <img alt="binder" src="https://mybinder.org/badge_logo.svg">
     </a>
     <a href="https://us-central1-b.gcp.pangeo.io/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Feds-book-gallery%2Fac327c3a-5264-40a2-8c6e-1e8d7c4b37ef&urlpath=lab%2Ftree%2Fac327c3a-5264-40a2-8c6e-1e8d7c4b37ef%2Fnotebook.ipynb&branch=main">
-        <img alt="JupyterHub" src="https://img.shields.io/static/v1.svg?logo=Jupyter&label=PangeoJupyterHub&message=2i2c&color=orange">
+        <img alt="jupyterhub" src="https://img.shields.io/static/v1.svg?logo=Jupyter&label=PangeoJupyterHub&message=2i2c&color=orange">
     </a>
     <a href="https://github.com/eds-book-gallery/ac327c3a-5264-40a2-8c6e-1e8d7c4b37ef/actions/workflows/render.yaml">
-        <img alt="Render" src="https://github.com/eds-book-gallery/ac327c3a-5264-40a2-8c6e-1e8d7c4b37ef/actions/workflows/render.yaml/badge.svg">
+        <img alt="render" src="https://github.com/eds-book-gallery/ac327c3a-5264-40a2-8c6e-1e8d7c4b37ef/actions/workflows/render.yaml/badge.svg">
     </a>
     <br/>
 </p>
 
 <p align="center">
     <a href="https://w3id.org/ro-id/ac327c3a-5264-40a2-8c6e-1e8d7c4b37ef">
-        <img alt="RoHub" src="https://img.shields.io/badge/RoHub-FAIR_Executable_Research_Object-2ea44f?logo=Open+Access&logoColor=blue">
+        <img alt="rohub" src="https://img.shields.io/badge/RoHub-FAIR_Executable_Research_Object-2ea44f?logo=Open+Access&logoColor=blue">
     </a>
     <a href="https://doi.org/10.24424/m8ew-pg51">
-        <img alt="DOI" src="https://zenodo.org/badge/DOI/10.24424/m8ew-pg51.svg">
+        <img alt="doi" src="https://zenodo.org/badge/DOI/10.24424/m8ew-pg51.svg">
     </a>
 </p>
 
