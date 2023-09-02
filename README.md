@@ -14,9 +14,6 @@
     <a href="https://github.com/eds-book-gallery/ac327c3a-5264-40a2-8c6e-1e8d7c4b37ef/blob/main/LICENSE">
         <img alt="license" src="https://img.shields.io/badge/license-MIT-yellow.svg">
     </a>
-    <a href="https://notebooks.gesis.org/binder/v2/gh/eds-book-gallery/ac327c3a-5264-40a2-8c6e-1e8d7c4b37ef/main?labpath=notebook.ipynb">
-        <img alt="binder" src="https://mybinder.org/badge_logo.svg">
-    </a>
     <a href="https://us-central1-b.gcp.pangeo.io/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Feds-book-gallery%2Fac327c3a-5264-40a2-8c6e-1e8d7c4b37ef&urlpath=lab%2Ftree%2Fac327c3a-5264-40a2-8c6e-1e8d7c4b37ef%2Fnotebook.ipynb&branch=main">
         <img alt="jupyterhub" src="https://img.shields.io/static/v1.svg?logo=Jupyter&label=PangeoJupyterHub&message=2i2c&color=orange">
     </a>
