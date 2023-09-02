@@ -40,9 +40,6 @@
     <a href="https://w3id.org/ro-id/ac327c3a-5264-40a2-8c6e-1e8d7c4b37ef">
         <img alt="rohub" src="https://img.shields.io/badge/RoHub-FAIR_Executable_Research_Object-2ea44f?logo=Open+Access&logoColor=blue">
     </a>
-    <a href="https://doi.org/10.24424/m8ew-pg51">
-        <img alt="doi" src="https://zenodo.org/badge/DOI/10.24424/m8ew-pg51.svg">
-    </a>
 </p>
 
 <p align="center">
