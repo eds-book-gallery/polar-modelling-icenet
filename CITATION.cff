@@ -1,0 +1,65 @@
+cff-version: 1.2.0
+title: "Sea ice forecasting using IceNet (Jupyter Notebook) published in the Environmental Data Science book"
+message: "If you use this software, please cite it using the metadata from this file."
+type: software
+authors:
+  - family-names: Coca-Castro
+    given-names: Alejandro
+    website: https://github.com/acocac
+    orcid: 0000-0002-9264-1539
+    affiliation: The Alan Turing Institute
+  - name: "This EDS book notebook contributors"
+    website: "https://github.com/eds-book-gallery/15d986da-2d7c-44fb-af71-700494485def/graphs/contributors"
+version: v1.0.0 # This is automatically set using the bumpversion tool.
+identifiers:
+  - type: doi
+    value: TBA
+    description: The concept DOI for the collection containing all versions of the notebook.
+abstract: "Notebook developed to demonstrate IceNet, a deep learning sea ice forecasting system trained using climate simulations and observational data."
+references:
+  - authors:
+      - family-names: Andersson
+        given-names: Tom R.
+      - family-names: Hosking
+        given-names: J. Scott
+      - family-names: Pérez-Ortiz
+        given-names: María
+      - family-names: Brooks
+        given-names: Paige
+      - family-names: Elliott
+        given-names: Andrew
+      - family-names: Russell
+        given-names: Chris
+      - family-names: Law
+        given-names: Stephen
+      - family-names: Jones
+        given-names: Daniel C.
+      - family-names: Wilkinson
+        given-names: Jeremy
+      - family-names: Phillips
+        given-names: Tony
+      - family-names: Byrne
+        given-names: James
+      - family-names: Tietsche
+        given-names: Steffen
+      - family-names: Sarojini
+        given-names: Beena Balan
+      - family-names: Blanchard-Wrigglesworth
+        given-names: Aksenov
+      - family-names: Yevgeny
+        given-names: Downie
+      - family-names: Rod
+        given-names: Downie
+      - family-names: Shuckburgh
+        given-names: Emily
+    doi: 10.1017/eds.2022.10
+    type: article
+    scope: "IceNet paper."
+    title: "Seasonal Arctic sea ice forecasting with probabilistic deep learning"
+    journal: "Nature Communications"
+    year: 2021
+keywords:
+  - Environmental Data Science
+  - Polar
+  - Modelling
+  - Deep learning
