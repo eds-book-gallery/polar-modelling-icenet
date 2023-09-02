@@ -13,7 +13,7 @@ authors:
 version: v1.0.0 # This is automatically set using the bumpversion tool.
 identifiers:
   - type: doi
-    value: TBA
+    value: 10.5281/zenodo.8311332
     description: The concept DOI for the collection containing all versions of the notebook.
 abstract: "Notebook developed to demonstrate IceNet, a deep learning sea ice forecasting system trained using climate simulations and observational data."
 references:
