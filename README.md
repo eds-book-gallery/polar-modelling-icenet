@@ -46,7 +46,7 @@
 </p>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/13321552/222992432-ce985964-a191-481a-b830-1438c77c8461.png?raw=True" alt="thumbnail" width="300"/>
+<img src="images/thumbnail.png" alt="thumbnail" width="500"/>
 </p>
 
 # How to run
